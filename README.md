@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm Estefanía Espinosa</h1>
 <h3 align="center">A Cyber Security, AI and Data Science profesional</h3>
 
