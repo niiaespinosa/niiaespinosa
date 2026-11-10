@@ -1,12 +1,12 @@
 <h1 align="center">Estefanía Espinosa</h1>
 <h3 align="center">Ciberseguridad, IA y Datos </h3>
 
-<h2 align="center">Proyectos </h2>
-*lab_SIEM: Laboratorio con un SIEM libre (Wazuh), utilizando sistemas con bajos recursos.  
-*analisis_trafico: Laboratorio con Wireshark y algunos ataques comunes, diseñádo para sistemas con bajos recursos.
-*analisis_amenazas: Inteligencia de amenazas utilizando ciencia de datos, python y datos libres (obtenidos de ThreatFox).
-*miprimeraWeb: Página web sencilla.
-*clima: Análisis de datos climatológicos y tendencias utilizando Python y SQL.
+<h2 align="center">Proyectos </h2>  
+* lab_SIEM: Laboratorio con un SIEM libre (Wazuh), utilizando sistemas con bajos recursos.  
+* analisis_trafico: Laboratorio con Wireshark y algunos ataques comunes, diseñádo para sistemas con bajos recursos.
+* analisis_amenazas: Inteligencia de amenazas utilizando ciencia de datos, python y datos libres (obtenidos de ThreatFox).
+* miprimeraWeb: Página web sencilla.
+* clima: Análisis de datos climatológicos y tendencias utilizando Python y SQL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
